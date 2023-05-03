@@ -1,4 +1,4 @@
-name: 'Build Corne-ish Zen Muszka'
+name: 'Build Muszka Corne-ish Zen'
 on: workflow_dispatch
 jobs:
   build:
