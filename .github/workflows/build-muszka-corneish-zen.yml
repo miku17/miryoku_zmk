@@ -6,10 +6,11 @@ jobs:
     secrets: inherit
     with:
       board: '[
-        "corneish_zen_left","corneish_zen_right"
+        "corneish_zen_v2_left","corneish_zen_v2_right"
       ]'
       alphas: '["QWERTY"]'
       nav: '["invertedT"]'
       clipboard: '["Mac"]'
       layers: '["flip"]'
       kconfig: '["CONFIG_ZMK_DISPLAY_HIDE_MOMENTARY_LAYERS=y\nCONFIG_CUSTOM_WIDGET_LAYER_STATUS_HIDE_HEADING=y\nCONFIG_CUSTOM_WIDGET_LOGO_IMAGE_MIRYOKU=y"]'
+      branches: '["zmkfirmware/zmk/v0.3-branch"]'
