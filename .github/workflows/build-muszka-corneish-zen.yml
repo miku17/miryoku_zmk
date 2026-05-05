@@ -12,5 +12,5 @@ jobs:
       nav: '["invertedT"]'
       clipboard: '["Mac"]'
       layers: '["flip"]'
-      kconfig: '["CONFIG_ZMK_DISPLAY_HIDE_MOMENTARY_LAYERS=y\nCONFIG_CUSTOM_WIDGET_LAYER_STATUS_HIDE_HEADING=y\nCONFIG_CUSTOM_WIDGET_LOGO_IMAGE_MIRYOKU=y"]'
+      ## kconfig: '["CONFIG_ZMK_DISPLAY_HIDE_MOMENTARY_LAYERS=y\nCONFIG_CUSTOM_WIDGET_LAYER_STATUS_HIDE_HEADING=y\nCONFIG_CUSTOM_WIDGET_LOGO_IMAGE_MIRYOKU=y"]'
       branches: '["SethMilliken/zmk/zen-display-patches"]'
